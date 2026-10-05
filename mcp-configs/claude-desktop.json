@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fullremote-windows": {
+      "command": "C:\\Users\\Admin\\Desktop\\fullremoteMCP\\dist\\fullremote-mcp.exe",
+      "args": ["serve", "--transport", "stdio"]
+    }
+  }
+}

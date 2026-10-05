@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fullremote-windows": {
+      "url": "http://26.37.15.119:8765/mcp",
+      "headers": {
+        "Authorization": "Bearer <FULLREMOTE_TOKEN>"
+      }
+    }
+  }
+}

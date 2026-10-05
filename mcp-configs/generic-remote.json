@@ -1,0 +1,9 @@
+{
+  "name": "fullremote-windows",
+  "transport": "streamable-http",
+  "url": "http://26.37.15.119:8765/mcp",
+  "headers": {
+    "Authorization": "Bearer <FULLREMOTE_TOKEN>",
+    "MCP-Protocol-Version": "2025-06-18"
+  }
+}

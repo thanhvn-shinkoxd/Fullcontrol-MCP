@@ -1,0 +1,19 @@
+{
+  "servers": {
+    "fullremote-windows": {
+      "type": "http",
+      "url": "http://26.37.15.119:8765/mcp",
+      "headers": {
+        "Authorization": "Bearer ${input:fullremoteToken}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "id": "fullremoteToken",
+      "type": "promptString",
+      "description": "FullRemote bearer token",
+      "password": true
+    }
+  ]
+}
