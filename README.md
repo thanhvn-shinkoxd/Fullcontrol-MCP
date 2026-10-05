@@ -10,17 +10,7 @@
 
 ## Demo
 
-<iframe
-  src="https://viddler.com/embed/player?id=19396&amp;color=default"
-  width="100%"
-  style="aspect-ratio: 16/9; width: 100%;"
-  frameborder="0"
-  allow="autoplay; fullscreen"
-  allowfullscreen
-  title="Showcase">
-</iframe>
-
-<p align="center">If the player is not displayed, <a href="https://viddler.com/8N4UeZ">watch the demo on Viddler</a>.</p>
+[▶ Watch the FullRemote MCP demo on Viddler](https://viddler.com/8N4UeZ)
 
 ## Overview
 
