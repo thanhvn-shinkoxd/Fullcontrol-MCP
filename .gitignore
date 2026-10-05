@@ -7,6 +7,5 @@ __pycache__/
 .env
 .fullremote/
 .test-data/
-dist/
 build/
 *.egg-info/
